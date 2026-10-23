@@ -1,0 +1,5 @@
+.editorlm/
+.agents/
+.claude/
+.codex/
+*.tmp
