@@ -1,5 +1,17 @@
-.editorlm/
-.agents/
-.claude/
-.codex/
-*.tmp
+# Ignore the EditorLM workspace by default; publish only the course reading files.
+/*
+!/.gitignore
+!/README.md
+!/work/
+/work/*
+!/work/לקריאה ב־GitHub/
+/work/לקריאה ב־GitHub/*
+!/work/לקריאה ב־GitHub/*.md
+!/work/איורים למדריך פורייה/
+/work/איורים למדריך פורייה/*
+!/work/איורים למדריך פורייה/*.png
+!/sources/
+/sources/*
+!/sources/Fourier.pdf
+!/sources/Intro+FourierI_slides.pdf
+!/sources/Intro+FourierI_slides.pptx
