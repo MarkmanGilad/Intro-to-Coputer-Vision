@@ -15,3 +15,13 @@
 !/sources/Fourier.pdf
 !/sources/Intro+FourierI_slides.pdf
 !/sources/Intro+FourierI_slides.pptx
+
+# EditorLM local project state
+.editorlm/
+
+# Lesson 2 reading assets and linked course sources.
+!/work/איורים למדריך קונבולוציה/
+/work/איורים למדריך קונבולוציה/*
+!/work/איורים למדריך קונבולוציה/*.png
+!/sources/FourierII_slides.pdf
+!/sources/Convolution_pre_handouts \[Read-Only\] \[Compatibility Mode\].pdf
