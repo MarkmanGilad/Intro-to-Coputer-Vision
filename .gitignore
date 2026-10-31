@@ -25,3 +25,9 @@
 !/work/איורים למדריך קונבולוציה/*.png
 !/sources/FourierII_slides.pdf
 !/sources/Convolution_pre_handouts \[Read-Only\] \[Compatibility Mode\].pdf
+
+# Selected Geometry I PDF and its linked lecture source.
+!/work/לקריאה ב־GitHub/03 - גאומטריה - הרצאה ראשונה.pdf
+!/sources/Geometry/
+/sources/Geometry/*
+!/sources/Geometry/Geometry1.pdf
